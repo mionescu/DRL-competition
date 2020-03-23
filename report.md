@@ -62,7 +62,7 @@ WEIGHT_DECAY = 0        # L2 weight decay
 
 The following plot shows the joint training evoluiton of the 2 agents, over multiple episodes, recording the winning score each time. The agents learn by episode 1486 how to obtain an average reward (over 100 episodes) of at least +0.5. 
 
-![image](https://github.com/mionescu/udacity-competition/blob/report_improvement/rewards_plot_v1.png)
+![image](https://github.com/mionescu/udacity-competition/blob/master/rewards_plot_v1.png)
 *Rewards evolution over multiple episodes*
 
 
