@@ -60,13 +60,13 @@ WEIGHT_DECAY = 0        # L2 weight decay
 
 ### 3. Plot of Rewards
 
-The following plot shows the joint training evoluiton of the 2 agents, over multiple episodes, recording the winning score each time. The agents learn by episode 1486 how to obtain an average reward (over 100 episodes) of at least +0.5. 
+The following plot shows the joint training evoluiton of the 2 agents, over multiple episodes, recording the winning score each time. The agents learn by episode 3476 how to obtain an average reward (over 100 episodes) of at least +0.5. 
 
-![image](https://github.com/mionescu/udacity-competition/blob/master/rewards_plot_v1.png)
+![image](https://github.com/mionescu/udacity-competition/blob/master/rewards_plot_v2.png)
 *Rewards evolution over multiple episodes*
 
 
 ### 5. Ideas for Future Work
 
-To improve the agents' performance, some ideas for future work are to try using other network architectures (i.e. layers and activation functions). Montre Carlo Tree Search could be an interesting for a future implementation!
+To improve the agents' performance, some ideas for future work are to try using other network architectures (i.e. layers and activation functions). Montre Carlo Tree Search could be an interesting for a future implementation! 
 
